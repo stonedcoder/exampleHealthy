@@ -1,0 +1,29 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Healthy diet quiz</string>
+    <string name="name">Name:</string>
+    <string name="weight">Your weight (kg):</string>
+    <string name="welcomeMsg">Please answer the quiz questions to find out how healthy is Your weekly diet!</string>
+    <string name="weightWaterMsg">You should drink <xliff:g id="waterAmount" example="1,8">%s</xliff:g> l of water every day.</string>
+    <string name="waterQuestion">Do You drink that much water every day?</string>
+    <string name="radioYes">Yes</string>
+    <string name="radioNo">No</string>
+    <string name="ifYesClicked">You are doing good for Your health!</string>
+    <string name="ifNoClicked">You should try to drink more water every day for Your own health.</string>
+    <string name="chooseProducts">Which product You ate most of all this week? Choose one or few!</string>
+    <string name="vegetables">vegetables</string>
+    <string name="vegetablesChecked">Vegetables is a really good choice. Just remember, that healthy diet is balanced diet.</string>
+    <string name="fruits">fruits</string>
+    <string name="fruitsChecked">Fruits are good choice for desert, but there is much sugar in them, so be careful and consider replacing some fruits with veggies. And do not forget about balance in everything!</string>
+    <string name="fastFood">fast food</string>
+    <string name="fastFoodChecked">Fast food should not be Your most frequent choice. Leave it just for rare special occasions.</string>
+    <string name="bread">bread/rice/oak or similar</string>
+    <string name="breadChecked">You should add more vegetables and fruits to Your diet for it to be balanced.</string>
+    <string name="dairy">milk products</string>
+    <string name="dairyChecked">Milk products are good for Your health, but vegetables should take the first place. Balance is a key to everything.</string>
+    <string name="meat">meat</string>
+    <string name="meatChecked">Meat is good for Your body, because it contains ferrum and proteins, but vegetables should full two times bigger part in Your dish than meat. and remember - meat does not replace fish.</string>
+    <string name="fish">fish</string>
+    <string name="fishChecked">Fish is really good choice and everyone should eat it at least 3 times a week, but do not forget about vegetables!</string>
+    <string name="submit">Submit!</string>
+    <string name="calculate">Calculate</string>
+</resources>
